@@ -17,4 +17,6 @@ Louise should look to see if she can produce the play for around $3000 as this i
 ![image](https://user-images.githubusercontent.com/105896678/172013131-ed4690df-5da4-4178-9742-8debc59e7518.png)
 
 For creating a kickstarter campaign for a possible musical in Great Britain Louise should plan on a budget of less than $2000, as 75% of the pledged amount was less than $1500.
-![image](https://user-images.githubusercontent.com/105896678/172019024-6bb2ee27-2dd7-4e09-8fd6-8ec70068ac58.png)
+
+![image](https://user-images.githubusercontent.com/105896678/172021139-f206ba80-56af-4cf2-a964-8cb5ed4eae7e.png)
+
