@@ -1,21 +1,23 @@
-# An Analysis of Kickstarter Campaigns
-Perfoming analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
-Theater kickstarter campaigns had the most number of campaigns for the 3 year period, with approximately 57% of campaigns being successful.  
+## Overview of Project
+  Analyst of Kickstarter campaigns by Lauch date and Goal outcome 
+### Purpose
+   To provide Louise with information on how different campaigns performed based on when they were launched and their goal amount.
+## Analysis and Challenges
 
-![image](https://user-images.githubusercontent.com/105896678/172008678-6f243311-1044-49b2-b86f-6f122560c1ba.png)
+### Analysis of Outcomes Based on Launch Date
 
-Of the US theater kickstarters plays were the most common subcategory, with 61% being successful.  
+### Analysis of Outcomes Based on Goals
 
-![image](https://user-images.githubusercontent.com/105896678/172008707-1ad6f6bc-68b9-4058-b2f3-875821545668.png)
+### Challenges and Difficulties Encountered
 
-The campaigns that were most successful were launched in May with reduced chances of success with each following mounth.
-![image](https://user-images.githubusercontent.com/105896678/172008658-e7b00c83-12d7-4573-a228-06991d75fcf5.png)
+## Results
 
-Louise should look to see if she can produce the play for around $3000 as this is the median for goal and pledged amounts.
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![image](https://user-images.githubusercontent.com/105896678/172013131-ed4690df-5da4-4178-9742-8debc59e7518.png)
+- What can you conclude about the Outcomes based on Goals?
 
-For creating a kickstarter campaign for a possible musical in Great Britain Louise should plan on a budget of less than $2000, as 75% of the pledged amount was less than $1500.
+- What are some limitations of this dataset?
 
-![image](https://user-images.githubusercontent.com/105896678/172021337-14963281-22f2-4783-b087-88ef0b1f8792.png)
+- What are some other possible tables and/or graphs that we could create?
